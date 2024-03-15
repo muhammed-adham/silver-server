@@ -1,0 +1,165 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Name1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "earrings",
+        "image": "/images/products/product-1.jpg",
+        "oldPrice": 3000,
+        "newPrice": 2000,
+        "onSale": true,
+        "topSale": true,
+        "new": false
+      },
+      {
+        "id": 2,
+        "productName": "Name2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "bracelets",
+        "image": "/images/products/product-2.jpg",
+        "oldPrice": 3000,
+        "newPrice": 2000,
+        "onSale": true,
+        "topSale": true,
+        "new": false
+      },
+      {
+        "id": 3,
+        "productName": "Name3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "earrings",
+        "image": "/images/products/product-3.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": true,
+        "new": false
+      },
+      {
+        "id": 4,
+        "productName": "Name4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "chains",
+        "image": "/images/products/product-4.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": true,
+        "new": false
+      },
+      {
+        "id": 5,
+        "productName": "Name5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "necklaces",
+        "image": "/images/products/product-5.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": true,
+        "new": false
+      },
+      {
+        "id": 6,
+        "productName": "Name6",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "bracelets",
+        "image": "/images/products/product-6.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": true,
+        "new": false
+      },
+      {
+        "id": 7,
+        "productName": "Name7",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "rings",
+        "image": "/images/products/product-7.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": false,
+        "new": true
+      },
+      {
+        "id": 8,
+        "productName": "Name8",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "bracelets",
+        "image": "/images/products/product-8.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": false,
+        "new": true
+      },
+      {
+        "id": 9,
+        "productName": "Name8",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "pendants",
+        "image": "/images/products/product-9.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": false,
+        "new": true
+      },
+      {
+        "id": 10,
+        "productName": "Name10",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "details": "Lorem ipsum dolor sit amet consectetur. Sed sodales arcu facilisi vitae. Justo at ipsum non hendrerit lectus elementum fringilla. Faucibus orci nunc justo ante sapien sed phasellus. Rutrum purus congue vestibulum scelerisque malesuada nisl semper at nibh.",
+        "category": "rings",
+        "image": "/images/products/product-10.jpg",
+        "oldPrice": 111,
+        "newPrice": null,
+        "onSale": false,
+        "topSale": false,
+        "new": true
+      }
+    ],
+    "mainBanner": [
+      {
+        "src": "/images/banners/main-banner-1.jpg",
+        "alt": "Lorem ipsum dolor sit"
+      },
+      {
+        "src": "/images/banners/main-banner-2.jpg",
+        "alt": "Lorem ipsum dolor sit"
+      },
+      {
+        "src": "/images/banners/main-banner-3.jpg",
+        "alt": "Lorem ipsum dolor sit"
+      }
+    ],
+    "wishlist": [],
+    "cartlist": [],
+    "users": [
+      {
+        "email": "adham@gmail.com",
+        "password": "$2a$10$HI/xhDR9KaY4NspWNWQXh.DEinmf8VsjSuP7Hp2yYhF0sTE1ic47u",
+        "name": "Adham",
+        "id": 2,
+        "lname": "Raafat",
+        "phone": "+201021915009",
+        "bulding": "24",
+        "city": "Cairo",
+        "address": "Nasr City",
+        "bday": "2024-02-23",
+        "gender": "male"
+      }
+    ]
+  }
